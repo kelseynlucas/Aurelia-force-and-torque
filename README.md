@@ -14,6 +14,7 @@ Reads in:
 -pressure field data from John Dabiri's queen2 (linked below)
 http://dabirilab.com/software
 
+
 Requires that the following Matlab scripts are loaded:
 
 -interparc: https://www.mathworks.com/matlabcentral/fileexchange/34874-interparc
@@ -22,9 +23,8 @@ Requires that the following Matlab scripts are loaded:
 
 -cbrewer (optional): https://www.mathworks.com/matlabcentral/fileexchange/34087-cbrewer-colorbrewer-schemes-for-matlab
 
-For background on force calculation methods, see:
-https://doi.org/10.1371/journal.pone.0189225
 
-For background on pressure calculation via queen2, see:
-https://doi.org/10.1242/jeb.092767
+For background on force calculation methods, see: https://doi.org/10.1371/journal.pone.0189225
+
+For background on pressure calculation via queen2, see: https://doi.org/10.1242/jeb.092767
 
